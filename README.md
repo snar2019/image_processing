@@ -1,5 +1,5 @@
 # image_processing
-Home Decor Application
+Home Decor App
 
 Changing color of the object on the fly
 
